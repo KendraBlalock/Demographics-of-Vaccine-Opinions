@@ -1,3 +1,3 @@
 # Demographics-of-Vaccine-Opinions
 R code setup for Tableau viz: https://public.tableau.com/profile/kendra.blalock#!/vizhome/AntiVax/Dashboard1
-Data was sourced from "The “Anti-Vax” Movement" https://www.openicpsr.org/openicpsr/project/120505/version/V2/view?path=/openicpsr/120505/fcr:versions/V2&type=project
+Data was sourced from "The “Anti-Vax” Movement" https://www.openicpsr.org/openicpsr/project/120505/version/V2/view?path=/openicpsr/120505/fcr:versions/V2&type=project, full citation: Benoit, Staci L, and Mauldin, Rachel. The “Anti-Vax” Movement: A Quantitative Report on Vaccine Beliefs and Knowledge across Social Media . Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2020-12-23. https://doi.org/10.3886/E120505V2
